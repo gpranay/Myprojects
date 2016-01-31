@@ -1,4 +1,4 @@
-git #Arrays is an ordered collection of objects, indexed by an integer. This index starts from 0.
+#Arrays is an ordered collection of objects, indexed by an integer. This index starts from 0.
 
 x = Array.new
 y = []
